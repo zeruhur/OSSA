@@ -30,6 +30,8 @@ The basic attributes of a character are:
 Charisma also determines the number of Non-Player Character (NPC) hirelings a character can acquire. These hirelings include specialists (ship captains, assassins, etc.) and non-human creatures, but do not usually include basic men-at-arms. Charisma modifies the loyalty of these NPCs.
 
 | **Charisma Bonus** |
+
+
 | --- | --- | --- |
 | **Charisma** | **Hirelings (Max #)** | **Loyalty** |
 | 3–4 | 1 | -2 |
@@ -47,6 +49,8 @@ Once determined the six attributes values, use the following table to assign the
 Feel free to change the values. For example, if you prefer the “average” range to be 9–12, adjust the table.
 
 | **Attribute Bonus** |
+
+
 | --- | --- | --- |
 | **Attribute Roll** | **Description** | **Bonus** |
 | 3-6 | Below Average | -1  |
