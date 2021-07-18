@@ -5,7 +5,7 @@ title: character generation
 
 # Character Generation
 
-When creating a character, first you have to determine ability scores, roll 3d6 six times. For a more old school experience, you have to roll in the given order below from Strenght to Charisma. 
+When creating a character, first you have to determine ability scores, roll 3d6 six times. For a more old school experience, you have to roll in the given order below from Strength to Charisma. 
 
 If you want to shape the character more, you may assign the results in any order you prefer.
 
@@ -36,7 +36,7 @@ The basic attributes of a character are:
 | Wisdom       | Clerics +5%                                 | Any character +5%                   |
 | Charisma     | -                                           | Any character +5%                   |
 
-### Charisma specialistis modifiers
+### Charisma modifiers
 
 Charisma also determines the number of Non-Player Character (NPC) hirelings a character can acquire. These hirelings include specialists (ship captains, assassins, etc.) and non-human creatures, but do not usually include basic men-at-arms. Charisma modifies the loyalty of these NPCs.
 
@@ -70,7 +70,7 @@ To determine Hit Points, roll the number of dice, plus modifier, indicated in th
 
 ## Single character party
 
-Not everybody want to play a whole party in solo adventures. This is a perfectly fine preference, but some adjustements are necessary to make a more resistent character which will adventure in danger places alone:
+Not everybody want to play a whole party in solo adventures. This is a perfectly fine preference, but some adjustments are necessary to make a more resistent character which will adventure in danger places alone:
 
 1. When you determine the attributes, roll 4d6 instead of 3d6 and drop the lowest die.
 
@@ -78,4 +78,4 @@ Not everybody want to play a whole party in solo adventures. This is a perfectly
 
 3. (Optional) Start the adventure with a level 3 character.
 
-4. (Recommended) Assign one or two henchmen to the character, especially if you want to play a character not proficient in melee combat. Be aware of the hiring cost of henchmen, they have to be payed at their usual . Remember that hirelings and henchman do have a loyality to test in dangerous situations.
+4. (Recommended) Assign one or two henchmen to the character, especially if you want to play a character not proficient in melee combat. Be aware of the hiring cost of henchmen, they have to be payed at their usual . Remember that hirelings and henchman do have a loyalty to test in dangerous situations.
